@@ -1,6 +1,6 @@
 # kotest-issue
 
-Demo project to reproduce an issue with "io.kotest:kotest-runner-junit5-jvm:4.1.3"
+Demo project to reproduce an issue with "io.kotest:kotest-runner-junit5-jvm:4.1.3". See https://github.com/kotest/kotest/issues/1622 .
 
 There is no main source set, just three test classes in `src/test/`:
 - `java/JavaJunit5Test`
